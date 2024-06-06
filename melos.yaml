@@ -1,0 +1,9 @@
+name: hello_translate
+
+packages:
+  - apps/**
+  - packages/**
+
+scripts:
+  analyze:
+    exec: dart analyze .

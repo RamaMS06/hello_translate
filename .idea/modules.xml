@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/hello_apps/melos_hello_apps.iml" filepath="$PROJECT_DIR$/apps/hello_apps/melos_hello_apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/translation_core/melos_translation_core.iml" filepath="$PROJECT_DIR$/packages/translation_core/melos_translation_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/translation_design/melos_translation_design.iml" filepath="$PROJECT_DIR$/packages/translation_design/melos_translation_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_hello_translate.iml" filepath="$PROJECT_DIR$/melos_hello_translate.iml" />
+    </modules>
+  </component>
+</project>
